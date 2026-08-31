@@ -1,10 +1,8 @@
 ### Bruno Ramirez
 
 [![brunormz.com](https://img.shields.io/badge/brunormz.com-09090b?style=flat-square&logo=safari&logoColor=38bdf8)](https://brunormz.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-ramirez-2a8b49384)
 [![WillApp](https://img.shields.io/badge/WillApp-willapp.es-0f172a?style=flat-square&logo=flutter&logoColor=48ead9)](https://willapp.es)
 [![RPE App](https://img.shields.io/badge/RPE_App-therpeapp.com-0f172a?style=flat-square&logo=flutter&logoColor=3b82f6)](https://therpeapp.com)
-[![Email](https://img.shields.io/badge/Email-contact%40brunormz.com-1e293b?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@brunormz.com)
 [![Resume](https://img.shields.io/badge/Resume-PDF-475569?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://brunormz.com/Bruno_Ramirez_CV.pdf)
 
 ---
