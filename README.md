@@ -13,7 +13,7 @@
 
 > Building AI-driven startups, scalable backend architecture, and functional tools. Based between Madrid and Berkeley.
 
-### 🚀 Startups & Projects
+### 🚀 Startups & Featured Work
 
 | Platform | Repository | Focus & Architecture | Live URL |
 | :--- | :--- | :--- | :--- |
@@ -26,12 +26,18 @@
 
 ### 🛠️ Tech Stack & Engineering
 
-```
-Languages:        Python · Dart · TypeScript · JavaScript · C++ · SQL
-Frontend & UI:    Flutter · React · Tailwind CSS · Liquid Glassmorphism
-Backend & Cloud:  Firebase · Cloud Firestore · Google Cloud Platform · Node.js · REST APIs
-AI & Tooling:     Gemini API · Model Context Protocol (MCP) · Git · Docker
-```
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-6366F1?style=flat-square&logo=openai&logoColor=white" alt="MCP" />
+</p>
 
 ---
 
