@@ -1,7 +1,5 @@
 ### Bruno Ramirez
 
-**Dual Bachelor in Industrial Engineering & Engineering Physics** · UC3M & UC Berkeley · Founder & Software Engineer
-
 [![brunormz.com](https://img.shields.io/badge/brunormz.com-09090b?style=flat-square&logo=safari&logoColor=38bdf8)](https://brunormz.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-ramirez-2a8b49384)
 [![WillApp](https://img.shields.io/badge/WillApp-willapp.es-0f172a?style=flat-square&logo=flutter&logoColor=48ead9)](https://willapp.es)
