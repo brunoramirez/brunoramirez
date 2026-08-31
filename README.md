@@ -44,7 +44,3 @@
 - **Focus Areas**: Backend Architecture, Mobile Engineering, Applied AI & Agent Workflows, Scientific Computing
 
 ---
-
-<p align="center">
-  <a href="https://brunormz.com"><b>brunormz.com</b></a> · <a href="https://www.linkedin.com/in/bruno-ramirez-2a8b49384">LinkedIn</a> · <a href="mailto:contact@brunormz.com">contact@brunormz.com</a>
-</p>
