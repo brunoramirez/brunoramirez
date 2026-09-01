@@ -1,30 +1,36 @@
-### Bruno Ramirez
+<h1 align="left">Bruno Ramirez</h1>
 
-**Dual Bachelor in Industrial Engineering & Engineering Physics** · UC3M & UC Berkeley · Founder & Software Engineer
+<p align="left">
+  <b>Dual Bachelor in Industrial Engineering & Engineering Physics</b> (@ UC3M & UC Berkeley) · <b>AI Backend Developer & Founder</b>
+</p>
 
-[![brunormz.com](https://img.shields.io/badge/brunormz.com-09090b?style=flat-square&logo=safari&logoColor=38bdf8)](https://brunormz.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-ramirez-2a8b49384)
-[![WillApp](https://img.shields.io/badge/WillApp-willapp.es-0f172a?style=flat-square&logo=flutter&logoColor=48ead9)](https://willapp.es)
-[![RPE App](https://img.shields.io/badge/RPE_App-therpeapp.com-0f172a?style=flat-square&logo=flutter&logoColor=3b82f6)](https://therpeapp.com)
-[![Email](https://img.shields.io/badge/Email-contact%40brunormz.com-1e293b?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@brunormz.com)
-[![Resume](https://img.shields.io/badge/Resume-PDF-475569?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://brunormz.com/Bruno_Ramirez_CV.pdf)
+<p align="left">
+  <i>Building high-performance mobile apps, multimodal AI systems, and scalable cloud infrastructure. Based between Madrid and Berkeley.</i>
+</p>
+
+<p align="left">
+  <a href="https://brunormz.com"><img src="https://img.shields.io/badge/brunormz.com-09090b?style=flat-square&logo=safari&logoColor=38bdf8" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/bruno-ramirez-2a8b49384"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://willapp.es"><img src="https://img.shields.io/badge/WillApp-willapp.es-0f172a?style=flat-square&logo=flutter&logoColor=48ead9" alt="WillApp" /></a>
+  <a href="https://therpeapp.com"><img src="https://img.shields.io/badge/RPE_App-therpeapp.com-0f172a?style=flat-square&logo=flutter&logoColor=3b82f6" alt="RPE App" /></a>
+  <a href="mailto:contact@brunormz.com"><img src="https://img.shields.io/badge/Email-contact%40brunormz.com-1e293b?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://brunormz.com/Bruno_Ramirez_CV.pdf"><img src="https://img.shields.io/badge/Resume-PDF-475569?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
+</p>
 
 ---
 
-> Building AI-driven startups, scalable backend architecture, and functional tools. Based between Madrid and Berkeley.
+### 🚀 Startups & Featured Architecture
 
-### 🚀 Startups & Featured Work
-
-| Platform | Repository | Focus & Architecture | Live URL |
+| Project | Showcase Repo | Technical Highlights & Architecture | Live Endpoint |
 | :--- | :--- | :--- | :--- |
-| **WillApp** | [`willapp-showcase`](https://github.com/brunoramirez/willapp-showcase) | **Define your Wills. Prove it with AI.** Student productivity & gamified goal achievement platform powered by Gemini AI verification. | [willapp.es](https://willapp.es) |
-| **RPE App** | [`rpe-showcase`](https://github.com/brunoramirez/rpe-showcase) | **Track Your RPE. Prevent Injuries.** Workload management system for athletes and coaches calculating acute-to-chronic workload ratios (ACWR). | [therpeapp.com](https://therpeapp.com) |
-| **brunormz.com** | [`brunormz.com`](https://brunormz.com) | **Personal Portfolio & Bento Dashboard.** Clean dark-mode portfolio with upcoming Model Context Protocol (MCP) server endpoint. | [brunormz.com](https://brunormz.com) |
-| **Flutter Glass Navigation** | [`flutter-glass-navigation`](https://github.com/brunoramirez/flutter-glass-navigation) | **Liquid Glassmorphism UI Suite.** Reusable, responsive glassmorphic navigation bar and design tokens for Flutter mobile applications. | [GitHub](https://github.com/brunoramirez/flutter-glass-navigation) |
+| **WillApp** | [`willapp-showcase`](https://github.com/brunoramirez/willapp-showcase) | **Turn your ambition into daily habits. Verify with AI. Share with your circle.** Student productivity & exam roadmap platform with Gemini Multimodal AI photo verification and serverless Cloud Functions. | [willapp.es](https://willapp.es) |
+| **RPE App** | [`rpe-showcase`](https://github.com/brunoramirez/rpe-showcase) | **Track Your RPE. Prevent Injuries.** Athletic workload management telemetry calculating real-time Session RPE and Acute:Chronic Workload Ratios (ACWR) with offline-first Riverpod architecture. | [therpeapp.com](https://therpeapp.com) |
+| **brunormz.com** | [`brunormz.com`](https://github.com/brunoramirez/brunormz.com) | **Personal Portfolio & Agent Surface:** Static-prerendered (SSG) portfolio featuring Schema.org JSON-LD structured data and `/llms.txt` discovery for autonomous AI coding agents. | [brunormz.com](https://brunormz.com) |
+| **Flutter Glass Navigation** | [`flutter-glass-navigation`](https://github.com/brunoramirez/flutter-glass-navigation) | **Liquid Glassmorphism UI Suite:** Hardware-accelerated Flutter component library with custom BackdropFilter shaders and adaptive design tokens locked at 60 FPS. | [Showcase](https://github.com/brunoramirez/flutter-glass-navigation) |
 
 ---
 
-### 🛠️ Tech Stack & Engineering
+### 🛠️ Tech Stack & Systems
 
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
@@ -36,7 +42,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-6366F1?style=flat-square&logo=openai&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/Gemini_API-Multimodal-4E75F6?style=flat-square&logo=google&logoColor=white" alt="Gemini API" />
 </p>
 
 ---
@@ -45,7 +51,7 @@
 
 - **Universidad Carlos III de Madrid (UC3M) & UC Berkeley** — Dual Bachelor in Industrial Engineering & Engineering Physics
 - **International Baccalaureate (IB)** — Bilingual Diploma
-- **Focus Areas**: Backend Architecture, Mobile Engineering, Applied AI & Agent Workflows, Scientific Computing
+- **Focus Areas**: Scalable Cloud Architecture, Multimodal AI Systems, Mobile Engineering, Mathematical Physics
 
 ---
 
