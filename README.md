@@ -25,7 +25,7 @@
 | :--- | :--- | :--- | :--- |
 | **WillApp** | [`willapp-showcase`](https://github.com/brunoramirez/willapp-showcase) | **Build daily habits. Verify with AI. Share with your circle.** Student productivity & exam roadmap platform with Gemini Multimodal AI photo verification and serverless Cloud Functions. | [willapp.es](https://willapp.es) |
 | **RPE App** | [`rpe-showcase`](https://github.com/brunoramirez/rpe-showcase) | **Track Your RPE. Prevent Injuries.** Athletic workload management telemetry calculating real-time Session RPE and Acute:Chronic Workload Ratios (ACWR) with offline-first Riverpod architecture. | [therpeapp.com](https://therpeapp.com) |
-| **brunormz.com** | [`brunormz.com`](https://github.com/brunoramirez/brunormz.com) | **Personal Portfolio & Agent Surface:** Static-prerendered (SSG) portfolio featuring Schema.org JSON-LD structured data and `/llms.txt` discovery for autonomous AI coding agents. | [brunormz.com](https://brunormz.com) |
+| **brunormz.com** | [`brunormz-showcase`](https://github.com/brunoramirez/brunormz-showcase) | **Personal Portfolio & Agent Surface:** Static-prerendered (SSG) portfolio featuring Schema.org JSON-LD structured data and `/llms.txt` discovery for autonomous AI coding agents. | [brunormz.com](https://brunormz.com) |
 | **Flutter Glass Navigation** | [`flutter-glass-navigation`](https://github.com/brunoramirez/flutter-glass-navigation) | **Liquid Glassmorphism UI Suite:** Hardware-accelerated Flutter component library with custom BackdropFilter shaders and adaptive design tokens locked at 60 FPS. | [Showcase](https://github.com/brunoramirez/flutter-glass-navigation) |
 
 ---
